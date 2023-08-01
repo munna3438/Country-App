@@ -1,0 +1,17 @@
+input {
+  padding: 0.6rem;
+  border-radius: 0.6rem;
+  width: 20rem;
+  font-size: 1.2em;
+  -webkit-border-radius: 0.6rem;
+  -moz-border-radius: 0.6rem;
+  -ms-border-radius: 0.6rem;
+  -o-border-radius: 0.6rem;
+}
+input:focus {
+  background: bisque;
+}
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}

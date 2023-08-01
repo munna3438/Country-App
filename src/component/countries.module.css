@@ -1,0 +1,15 @@
+.coutries {
+  padding: 3rem;
+  display: grid;
+  gap: 2rem;
+}
+@media screen and (min-width: 768px) {
+  .coutries {
+    grid-template-columns: auto auto;
+  }
+}
+@media screen and (min-width: 992px) {
+  .coutries {
+    grid-template-columns: auto auto auto;
+  }
+}
